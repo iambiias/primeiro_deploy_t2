@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+figure{
+    img{
+        width:400px;
+ }
+}
+ section {
+    width: 700px;
+    height: 300px;
+    border:solid 2px black;
+background-image: url("./assets/netflix.jpg");
+background-size: 300px;
+color: white;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
